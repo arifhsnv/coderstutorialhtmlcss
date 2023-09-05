@@ -1,0 +1,39 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.container {
+  background-color: aquamarine;
+  width: 500px;
+  height: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+.btn-full {
+  background-color: yellow;
+  padding: 18px 32px;
+  border-radius: 30px;
+  color: #2e2e2e;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  line-height: normal;
+}
+.btn-link {
+  background-color: #b8daff;
+  padding: 18px 32px;
+  color: #112a46;
+  font-family: "Montserrat";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 30px;
+}
+.btn-solid {
+  padding: 13px 32px;
+  border: 1px dashed #e63946;
+  margin-top: 20px;
+}

@@ -1,0 +1,41 @@
+* {
+  padding: 0px;
+  box-sizing: border-box;
+  margin: 0px;
+}
+h1 {
+  text-align: center;
+}
+.first {
+  color: white;
+  background-color: yellow;
+}
+#second {
+  color: aquamarine;
+  background-color: red;
+}
+.third {
+  color: blue;
+  background-color: aquamarine;
+}
+#fourth {
+  color: blueviolet;
+  background-color: chartreuse;
+}
+.fifth {
+  color: brown;
+  background-color: green;
+}
+#sixth {
+  color: blue;
+  background-color: aquamarine;
+}
+h2 {
+  text-align: center;
+  color: white;
+  background-color: aquamarine;
+}
+.text {
+  color: brown;
+  background-color: aquamarine;
+}

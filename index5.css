@@ -1,0 +1,27 @@
+* {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+.container {
+  position: relative;
+  background-color: aquamarine;
+  text-align: center;
+  width: 400px;
+  height: 200px;
+  margin: 0 auto;
+}
+.navbar {
+  display: inline-block;
+  /* width: 100px; */
+  background-color: #e0b1cb;
+  color: #fb5607;
+}
+
+.navbar ul li a {
+  position: absolute;
+  left: 50px;
+  display: inline-block;
+}
